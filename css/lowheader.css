@@ -1,0 +1,79 @@
+.low-header {
+    display: flex;
+    justify-content: space-between;
+    border-top-color: rgba(77, 77, 77, 0.2);
+    border-top-style: solid;
+    border-top-width: 3px;
+    padding-left: 218px;
+    padding-right: 238px;
+    margin-bottom: 129px;
+}
+
+.left-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 36px;
+}
+
+
+.right-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 36px;
+}
+
+.website {
+    font-size: 30px;
+    color: white;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+}
+
+
+.twitter-text {
+    font-size: 19px;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    color: white;
+    text-wrap: nowrap;
+}
+
+
+.tweet-box {
+    background-color: #4699E0;
+    margin-top: 4px;
+    padding-top:5px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin-left: 16px;
+    border-radius: 5px;
+}
+
+.vsg {
+    padding-left: 11px;
+    padding-top: 6px;
+    padding-right: 10px;
+}
+
+
+.follow-text {
+   font-size: 19px;
+   font-family: Source Sans Pro;
+    font-weight: 600;
+    color: white;
+    padding-right: 11px;
+    padding-bottom: 6px;
+    padding-top: 5px;
+}
+
+
+.new-tweet-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4699E0;
+    border-radius: 5px;
+}
